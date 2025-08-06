@@ -1,0 +1,11 @@
+input: .
+output: .retype
+locale: ja
+url: kinokonetwork.github.io/life
+
+branding:
+  title: LifeServer
+  label: Beta
+
+footer:
+  copyright: "&copy; Copyright {{ year }} KinokoNetWork. All rights reserved."
