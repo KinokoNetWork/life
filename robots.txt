@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kinokonetwork.github.io/life/sitemap.xml.gz
