@@ -1,7 +1,11 @@
 ---
 icon: milestone
 order: 99
+tags: [チュートリアル, 機能]
 ---
-# Discordについて
-![discord](discord.jpg)
-Discordは、Windows・macOS・Linux・Android・iOS・Webブラウザで動作する、インスタントメッセージ・ビデオ通話・音声通話・VoIPフリーウェアである。アメリカ合衆国で開発されており、2024年時点で5億6,000万人近くに達している。
+# 経済鯖 - 機能一覧
+経済サーバーが成立する上で、様々なPluginによって機能が追加されています。<br>
+一部機能を取り上げて紹介します。
+
+## 一覧
+* [辞書機能](dict)
